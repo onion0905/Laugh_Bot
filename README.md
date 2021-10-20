@@ -1,2 +1,2 @@
 # Laugh_Bot
-A Bot That Laughs At You
+ A Bot That Laugh What You Laugh
